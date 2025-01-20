@@ -24,7 +24,7 @@ HTML, CSS, JAVASCRIPT\
 <mark> Backend : </mark>\
 Python\
 <mark>Modules and API Used: </mark>\
-Flask, Pytorch, Tokenizer,Huggingface\
+Flask, Pytorch, Tokenizer,Huggingface
 
 # Proposed solution
 The proposed solution is a digital mental wellness platform to engage students and promote better mental health. Key features include gamified missions that reward users with points for active participation, encouraging long-term usage. A peer support network allows users to share their thoughts, tips, and overcoming stories, fostering a supportive community. An AI-powered chatbot offers anonymous counseling, ensuring privacy and accessibility.
