@@ -7,8 +7,15 @@ Our Digital Mental Wellness Platform is an innovative solution designed to foste
 
 # <mark>NOVELTY</mark>
 <mark>WEEKLY PROGRESS:</mark>\
-We’ve trained a ML model which identifies the cognitive distortion in the sentence which is given by the user in the daily journal and then we collect the sentences all over the week to generate a report on the variation of the distorted part and the emotion in the sentences over the week.(helps students to understand their pattern of thinking and promotes positive thinking).\
+We’ve trained an ML model which identifies the cognitive distortion in the sentence which is given by the user in the daily journal. Then we collect the sentences all over the week to generate a report on the variation of the distorted part and the emotion in the sentences over the week. (helps students understand their thinking patterns and promotes positive thinking).\
 <mark>DAILY MISSIONS:</mark>\
-To increase the engagement of the students, we give points upon completing the missions (eg: points for daily login, etc) and we’ll be having a dedicated leaderboard which features all the users points.\
+To increase the students' engagement, we give points upon completing the missions (eg, points for daily login, etc) and we’ll have a dedicated leaderboard that features all the user's points.\
 <mark>ANONYMOUS COUNSELLING:</mark>\
-To encourage people to open up about their problems, we’ve used Llama 2-7-b (GEN AI), which has the ability to guide users based on their problems and this eliminates the fear of being judged, hence improving help-seeking behaviour
+To encourage people to open up about their problems, we’ve used Llama 2-7-b (GEN AI), which can guide users based on their problems and this eliminates the fear of being judged, hence improving help-seeking behavior
+# <mark> TECH STACK</mark>
+<mark> Frontend : </mark>\
+HTML, CSS, JAVASCRIPT\
+<mark> Backend : </mark>\
+Python\
+<mark>Modules and API Used: </mark>\
+Flask, Pytorch, Tokenizer,Huggingface
